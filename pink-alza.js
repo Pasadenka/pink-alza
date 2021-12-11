@@ -97,6 +97,10 @@ function appendStyleToHead() {
         #header {
             background: #F1ABB9 !important;
         }
+
+        #logo {
+            filter: hue-rotate(110deg);
+        }
     `;
     document.head.appendChild(styleNode);
 }
