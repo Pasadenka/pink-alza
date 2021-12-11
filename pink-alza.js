@@ -8,6 +8,7 @@
 // @icon         https://www.google.com/s2/favicons?domain=alza.cz
 // @homepageURL  https://github.com/Pasadenka/pink-alza.git
 // @supportURL   https://github.com/Pasadenka/pink-alza.git/issues
+// @color        https://www.schemecolor.com/pink-blush-color-palette.php
 // @grant        none
 // ==/UserScript==
 
